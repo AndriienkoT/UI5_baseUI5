@@ -1,0 +1,8 @@
+{
+  "fileExtensions": [".less", ".css"],
+  "importPath": {
+    "filenameExtension": true,
+    "leadingUnderscore": false,
+    "exclude": []
+  }
+}

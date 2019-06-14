@@ -1,0 +1,19 @@
+.idea
+.vscode
+target
+node_modules
+
+src/mobile/demo/platforms
+!src/mobile/demo/platforms/README.md
+src/mobile/demo/plugins
+!src/mobile/demo/plugins/README.md
+src/mobile/demo/www
+!src/mobile/demo/www/README.md
+
+gulp-output.log
+gulp-tasks.loggit push -u origin master
+yarn-error.log
+
+.DS_Store
+._.DS_Store
+**/._.DS_Store
